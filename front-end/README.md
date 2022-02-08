@@ -20,4 +20,4 @@ wachtwoord: 12345678
 ```
 
 ## Bijhorende API
-https://github.com/HOGENT-Web/webservices-pieter-2122-MikeDeKeukeleire
+https://github.com/MikeDeKeukeleire/Restaurant_webApp/tree/main/back-end
