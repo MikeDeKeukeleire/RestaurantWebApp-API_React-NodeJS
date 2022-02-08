@@ -38,4 +38,4 @@ wachtwoord: 12345678
 ```
 
 ## Bijhorende web app
-https://github.com/HOGENT-Web/frontendweb-karine-2122-MikeDeKeukeleire
+https://github.com/MikeDeKeukeleire/Restaurant_webApp/tree/main/front-end
